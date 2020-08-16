@@ -10,3 +10,6 @@ There is a lot of tracking involved in almost all web services we use and that c
 
 # Future Ideas
 I will be working on this in the future and look into open source APIs for WebRTC rather than trying to work out one on my own. Quality of life features like admin control, file / image / link embeds in the chat, list of active users are something which will be worked upon in the future. Personally, I feel that making something of this scale in 1 day is difficult (just my opinion)
+
+# Note
+I have excluded a few files from this as they contain secret keys, so cloning this for your own project will not work straight away and will require some tinkering from your side.
